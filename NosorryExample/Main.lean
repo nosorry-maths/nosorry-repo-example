@@ -1,4 +1,3 @@
-import NosorryExample.Extra
 /-
 Copyright 2025 The Formal Conjectures Authors.
 
@@ -18,6 +17,7 @@ limitations under the License.
 module
 
 public import FormalConjecturesUtil
+public import NosorryExample.Extra
 
 /-!
 # Written on the Wall II - Conjecture 96

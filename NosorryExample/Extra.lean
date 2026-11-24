@@ -1,4 +1,6 @@
-import Mathlib
+module
+
+public import Mathlib
 
 /-! A helper module (it exists to make this example a multi-module proof). -/
 namespace NosorryExample
