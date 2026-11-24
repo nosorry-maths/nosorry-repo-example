@@ -1,0 +1,10 @@
+name = "nosorry_example"
+defaultTargets = ["NosorryExample"]
+
+[[require]]
+name = "formal_conjectures"
+git = "https://github.com/google-deepmind/formal-conjectures"
+rev = "f9b3868d5ca994a7bf95039bcec05338c0c21e2f"
+
+[[lean_lib]]
+name = "NosorryExample"
